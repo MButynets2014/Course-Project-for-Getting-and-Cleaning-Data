@@ -1,4 +1,4 @@
-project1
+Introduction
 ========
 This respository includes three files: R script ('run_analysis.R'), Code Book ('CodeBook.md') and Output Data Set ('averages_data.txt') for Getting-and-Cleaning-Data-Course-Project. The R script covers all 5 steps conducted for the Course Project task. The Code Book describes variables used in the task. The Output Data Set (called 'averages_data.txt') is the tidy data set from the last step of the task.
 #The R script works in the following way: 
