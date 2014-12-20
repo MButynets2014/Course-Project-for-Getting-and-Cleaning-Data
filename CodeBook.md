@@ -1,5 +1,5 @@
 #Description of vabiables used in R script
-Here you can find information about variables used from data sets:
+Here you can find information about variables used from input data sets:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
